@@ -1,6 +1,6 @@
 **Goal**: Extract buildings and parks in bangalore and make a map.
 
-![map][map.png]
+![map](map.png)
 
 Bounding box: `[77.4368, 12.8225, 77.7564, 13.0939]`
 
